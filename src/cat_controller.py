@@ -37,10 +37,10 @@ class CatController:
 
 
 
-# if hour corresponds to the each of 8,9,10,11,13,14,15,16,17,18 ans 19
-#    and  'Give water' is not bond with those numbers
+# if hour corresponds to any of 8,9,10,11,13,14,15,16,17,18 ans 19
+#    and  'Give water' is not accociated with those numbers
 #       denn it is false
-# but 'Give water' is bond with other number than 8,9,10,11,13,14,15,16,17,18 ans 19
+# but 'Give water' is accociated with a number other than 8,9,10,11,13,14,15,16,17,18 ans 19
 #       denn it is also false
 
 # test_failed = False
